@@ -1,7 +1,7 @@
 {
   "name": "@flash-swap/sdk",
   "license": "MIT",
-  "version": "1.0.5-test",
+  "version": "1.0.6-test",
   "description": "🛠 An SDK for building applications on top of Flash Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
